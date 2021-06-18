@@ -1,4 +1,4 @@
 # ideas
-Hier kannst du deine Ideen posten unter dem Issues Tab!
+Hier kannst du Ideen und Bugs posten unter dem Issues Tab!
 https://github.com/flexarmy/ideas/issues
  
